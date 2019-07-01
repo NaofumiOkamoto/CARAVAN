@@ -20,7 +20,7 @@
 
 問４  
 <div>タグの中に<div>タグが２つ存在するHTML  
-````
+````html
 <div>
 	<div></div>
 	<div></div>
