@@ -20,13 +20,13 @@
 
 問４  
 <div>タグの中に<div>タグが２つ存在するHTML  
-````
-<div>
-	<div></div>
-	<div></div>
-	<div></div>
-</div>
 ```
+<div>  
+	<div></div>  
+	<div></div>  
+	<div></div>  
+</div>  
+```  
 問５  
 floatプロパティのメリット  
 2.要素の並びの上下を自由に調節できる  
