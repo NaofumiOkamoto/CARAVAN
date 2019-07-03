@@ -192,3 +192,53 @@ footer{
 .footer-text{
   color: #fff;
 }
+.social i {
+  color: black;
+}
+@media screen and (max-width:425px){
+  header{
+    width: 100%;
+  }
+  .nav-list{
+    width: 100%;
+  }
+  .nav-list-item{
+    width: 100%;
+    margin: 0px 0px 10px 0px;
+  }
+  .social{
+    display: none;
+  }
+  .main-visual-content{
+    width: 100%;
+  }
+  main{
+    width: 100%;
+  }
+  .blog{
+    width: 100%;
+  }
+  .blog-box{
+    padding-left: 2%;
+  }
+  .blog-image{
+    width: 49%;
+  }
+  .blog-text{
+    width: 49%;
+  }
+  .pagination{
+    margin-bottom: 50px;
+  }
+  .sidebar{
+    width: 100%;
+    padding-left: 2%;
+  }
+  .instagram-box{
+    width: 48%;
+    padding-top: 48%;
+  }
+  .instagram-box:ntn-child(odd){
+    margin-right: 2%;
+  }
+}
